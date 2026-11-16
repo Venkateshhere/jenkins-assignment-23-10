@@ -1,1 +1,2 @@
-Jenkins assignment 23-10
+Jenkins user input parameter setup
+
